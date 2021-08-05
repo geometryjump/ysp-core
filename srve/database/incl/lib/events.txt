@@ -1,0 +1,1 @@
+[{"event":"event1","data":{"param1":"val2","param2":"val1"}}]
